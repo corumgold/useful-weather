@@ -34,4 +34,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Ignore configuration file
+config.js
+
 prettier.config.js
